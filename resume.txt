@@ -6,34 +6,37 @@ Find me on:
     LinkedIn: https://www.linkedin.com/in/alexander-shatalin-390280264/
 
 Contact me:
-    Telegram: https://t.me/Name_that_i_can_use
     Mail: alexander.andr.shat@gmail.com
+    Telegram: https://t.me/a125x_a
 
 Education: 
     Information Systems and Technologies, RTU MIREA, 2021-present, currently studying
-    Relevant courses: Linear Algebra, Analysis, Programming, Artificial Intellegence, Big Data
+    Relevant courses: Linear Algebra, Analysis, Programming, Artificial Intellegence, Big Data, Applied Artificial Intelligence
 
 Skills:
     Programming: python, SQL, C++ 
-    Machine Learning: k-means clustering, decision trees, logistic and linear regressions, linear perceptrones, transformers
+    Machine Learning: gradient boostings, k-means clustering, decision trees, logistic and linear regressions, linear perceptrones, transformers
     Math: Analysis, Algebra, Linear Algebra, Category Theory
 
 Projects:
     Constructor of Linear Perceptrones: https://github.com/A125X/Neural-Network-Constructor
     Created a simple library to build perceptrones with desired activation functions, depth, number of parameters and so on; provided methods to visualise training data and save and load models
 
-    Speech Recognition: https://github.com/A125X/Speech-Recognition
+    Speech Recognition Webpage: https://github.com/A125X/Speech-Recognition
     Created simpe webcite with function of speech recognition using Google Speech API
 
-Work experience: 
+Working experience: 
     RDX Labs in RTU MIREA: October 2022 - present
-    Researched state of the art models to build MVP of the chit-chat bot, created datasets for CV model 
+    Researched state of the art LLM to build MVP of the chit-chat bot, created datasets for CV model 
 
 Hackatons & competitions:
-    Sovcombank Team Challenge, November 2022, Top-10: 
-    Witn task of developing web application for online trading, used Darts for time series predictions
+    Aeroclub Challenge, finalist:
+    Used CatBoost gridsearch to tune catboost model's hyperparameters to find perfect tickets for clients using information about their order and visualised processed data with seaborn
 
     MTS ML Cup, Febriary - March 223:
     Predicted user's age and sex with provided cookies data
 
-In my free time I like reading, listening music and building custom keyboards.
+    Sovcombank Team Challenge, November 2022, Top-10: 
+    Witn task of developing web application for online trading, used Darts for time series predictions
+
+In my free time I like reading, listening music and building custom keyboards. Free software enthusiast, Nix user.
