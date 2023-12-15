@@ -22,21 +22,27 @@ Projects:
     Constructor of Linear Perceptrones: https://github.com/A125X/Neural-Network-Constructor
     Created a simple library to build perceptrones with desired activation functions, depth, number of parameters and so on; provided methods to visualise training data and save and load models
 
+    Stocks Prices Prediction: https: //github.com/a125x/Stock-Prices-Analysis-And-Predictiondictions
+    I used KerasTuner HyperModel for LSTM models, along with yahoo finance price data of multiple assets to predict changes in the Bitcoin price
+
     Speech Recognition Webpage: https://github.com/A125X/Speech-Recognition
     Created simpe webcite with function of speech recognition using Google Speech API
 
 Working experience: 
-    RDX Labs in RTU MIREA: October 2022 - present
-    Researched state of the art LLM to build MVP of the chit-chat bot, created datasets for CV model 
+    Intership in RDX Labs, RTU MIREA: October 2022 - June 2023:
+    Researched LLMs to build MVP of the chit-chat bot, created datasets for CV model 
 
 Hackatons & competitions:
-    Aeroclub Challenge, finalist:
-    Used CatBoost gridsearch to tune catboost model's hyperparameters to find perfect tickets for clients using information about their order and visualised processed data with seaborn
+    Digital Breakthrough & Burger King Hackaton, 2023, finalist, top-7 among newcomers:
+    Used ansamble of gradient boostings along with feature engineering to predict churn rate
 
-    MTS ML Cup, Febriary - March 223:
-    Predicted user's age and sex with provided cookies data
+    Aeroclub Challenge, 2023, finalist, top-11:
+    Used CatBoost gridsearch to tune catboost model's hyperparameters to find perfect tickets for clients using information about their order
 
-    Sovcombank Team Challenge, November 2022, Top-10: 
+    MTS ML Cup, 2023:
+    Predicted user's age and sex with provided cookies data using CatBoost and users <-> items embedding
+
+    Sovcombank Team Challenge, 2022, finalist, top-10: 
     Witn task of developing web application for online trading, used Darts for time series predictions
 
 In my free time I like reading, listening music and building custom keyboards. Free software enthusiast, Nix user.
