@@ -1,2 +1,3 @@
 # Resume
-<img width="528" alt="image" src="https://github.com/a125x/Resume/assets/91656458/8e45795f-6279-4806-a25f-d730fa2e185d">
+
+<img width="762" height="1076" alt="image" src="https://github.com/user-attachments/assets/2cc3ffce-51a1-4ff2-a547-8a8f75732e0f" />
